@@ -7,4 +7,4 @@ Test it yourself here: http://ws-luma.nmbr.one/todo/
 
 Media:
 
-<img src="/ToDo/assets/todo_main.png" alt="Test" title="Test Title">
+<img src="/repository/assets/todo_main.png" alt="Test" title="Test Title">
