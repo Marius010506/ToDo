@@ -8,4 +8,5 @@ Test it yourself here: http://ws-luma.nmbr.one/todo/
 Media:
 
 
-![Alt text](http://ws-luma.nmbr.one/todo/github_images/TaskList.png "Title")
+![Main](url "[Title](http://ws-luma.nmbr.one/todo/github_images/TaskList.png)")
+
